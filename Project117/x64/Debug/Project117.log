@@ -1,0 +1,5 @@
+﻿  Gamemanager.cpp
+C:\Users\user\source\repos\Project117\Project117\Gamemanager.cpp(631): warning C4715: 'GameManager::moveIt': not all control paths return a value
+C:\Users\user\source\repos\Project117\Project117\Gamemanager.cpp(487): warning C4715: 'GameManager::movePawn': not all control paths return a value
+C:\Users\user\source\repos\Project117\Project117\Gamemanager.cpp(1021): warning C4715: 'GameManager::undo': not all control paths return a value
+  Project117.vcxproj -> C:\Users\user\source\repos\Project117\x64\Debug\Project117.exe
